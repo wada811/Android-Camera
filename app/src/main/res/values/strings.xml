@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-Camera</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="facing">Facing</string>
+    <string name="radioFacingBack">Back</string>
+    <string name="radioFacingFront">Front</string>
+    <string name="openCamera">Open Camera</string>
+
+</resources>
